@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Alishba%20Naveed%20Durrani&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20Backend%20Systems%20%7C%20Final%20Year%20@%20FAST%20Islamabad&descAlignY=55&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Alishba%20Naveed%20Durrani&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20Backend%20Systems/>
 
 <br/>
 
@@ -15,7 +15,7 @@
 
 ## 👩‍💻 About Me
 
-I'm a final-year Computer Science student at **FAST-NUCES Islamabad** who loves understanding how systems work at a deep level — not just using tools, but knowing *why* they're built the way they are.
+I'm a  Computer Science graduate who loves understanding how systems work at a deep level — not just using tools, but knowing *why* they're built the way they are.
 
 I build production-oriented AI systems: real-time voice pipelines, RAG architectures, distributed backends. I'm the kind of engineer who reads the source code when the docs don't explain enough.
 
